@@ -26,3 +26,9 @@ java Calculator "add(1, multiply(add(2, 1), 3))" => 10
 java Calculator "add(1, multiply(2, 3))" => 7
 java Calculator "multiply(add(2, 2), div(9, 3))" => 12
 ```
+
+
+## Features 
+- Error Handling: Checking for balanced paranthesis, invalid inputs, syntax errors and more
+- Extensibility: Easily add new functions in the ExpressionEvaluator Class 
+- Abstraction: Using OOP for functional design 
