@@ -1,6 +1,5 @@
 public class SyntaxChecker {
-
-
+ 
 	public static void checkInitialSyntax(String expr) {
 
 		try {
@@ -129,7 +128,5 @@ public class SyntaxChecker {
 		}
 		return i;
 	}
-
-
 
 }
