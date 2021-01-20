@@ -2,9 +2,6 @@
 
 public class Calculator {
 	
-
-
-
 	/* Removing unnecessary spaces from the input string */
 	public String getCorrectInput(String str){
 		return str.replaceAll("\\s", "");
