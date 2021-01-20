@@ -1,5 +1,5 @@
 # S-expression-calculator
-command line prefix notation calculator 
+command line prefix notation calculator for Encricle Code Test
 
 ## Build
 ```
