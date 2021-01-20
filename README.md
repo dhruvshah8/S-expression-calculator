@@ -8,7 +8,7 @@ cd src
 javac Calculator.java Constants.java SyntaxChecker.java ExpressionEvaluator.java
 ```
 ## Functions: 
-In order to evaluate expressions, they must be in the form of Strings. Furthermore, each expression must be seperated by commas(,).  
+In order to evaluate expressions, they must be in the form of Strings. Furthermore, **each expression must be seperated by commas(,).**  
 The following functions are built in however, it is quite easy to add new functions in the ExpressionEvaluator Class. 
 - add
 - multiply
